@@ -1,13 +1,11 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" style="width: 100%;"/>
+<img alt="GoStack" src=".github/header-desafios-new.png" style="width: 100%;"/>
 
 <h3 align="center">
   Challenge 02: Node.js Concepts
 </h3>
 
-<p align="center">“Don't wait to plant, only have patience to harvest”!</blockquote>
-
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wladimirfrost/gostack-template-conceitos-nodejs">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wladimirgrf/conceitos-nodejs">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
